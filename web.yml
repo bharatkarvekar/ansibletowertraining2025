@@ -1,0 +1,3 @@
+- host: all
+  tasks: 
+    package:  "name=dialog state=present"
